@@ -65,7 +65,7 @@
 	font-size: 11px;
 	padding: 0 5px;
 	background: #fff;
-	color: #f50c1a;
+	color: #05dff3;
 	position: absolute;
 	right: -4px;
 	top: -14px;
@@ -136,7 +136,7 @@
 	fill: #1d1d1f;
 }
 .shape-overlays__path:nth-of-type(3) {
-	fill: #f50c1a;
+	fill: #05dff3;
 }
  @-webkit-keyframes intervalHamburgerBorder {
  0% {
