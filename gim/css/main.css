@@ -1504,7 +1504,7 @@ input::-moz-focus-inner {
   content: "";
   display: inline-block;
   height: 1px;
-  width: 320px;
+  width: 360px;
   background-color: #00a650;
   position: absolute;
   bottom: 0;
