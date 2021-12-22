@@ -2069,7 +2069,7 @@ input::-moz-focus-inner {
   content: "";
   width: calc(50% - 200px);
   height: 100vh;
-  background-image: url(../images/app-user.jpg);
+  background-image: url(../images/app-user.png);
   background-origin: center top;
   background-repeat: no-repeat;
   background-size: cover;
