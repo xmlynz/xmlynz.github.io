@@ -47,8 +47,8 @@
  *  # features
  *    ## features list
  *  # testimonials
- *  # pricing
- *    ## pricing plan blocks
+ *  # comparison
+ *    ## comparison plan blocks
  *  # download
  *  # footer
  *    ## subscribe form
@@ -3058,10 +3058,10 @@ html.no-csstransitions .home-content__main {
 
 
 /* ===================================================================
- * # pricing
+ * # comparison
  *
  * ------------------------------------------------------------------- */
-.s-pricing {
+.s-comparison {
   padding-top: 19.2rem;
   padding-bottom: 17.6rem;
   background-color: #FFFFFF;
@@ -3069,7 +3069,7 @@ html.no-csstransitions .home-content__main {
 }
 
 /* ------------------------------------------------------------------- 
- * ## pricing plan blocks
+ * ## comparison plan blocks
  * ------------------------------------------------------------------- */
 .plans {
   margin-top: 6.4rem;
@@ -3150,7 +3150,7 @@ html.no-csstransitions .home-content__main {
 
 /* ------------------------------------------------------------------- 
  * responsive:
- * pricing
+ * comparison
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:1200px) {
   .plans {
@@ -3160,7 +3160,7 @@ html.no-csstransitions .home-content__main {
 }
 
 @media only screen and (max-width:1000px) {
-  .s-pricing {
+  .s-comparison {
     padding-top: 16.8rem;
     padding-bottom: 16.8rem;
   }
@@ -3175,7 +3175,7 @@ html.no-csstransitions .home-content__main {
 }
 
 @media only screen and (max-width:600px) {
-  .s-pricing {
+  .s-comparison {
     padding-top: 12rem;
     padding-bottom: 9.6rem;
   }
